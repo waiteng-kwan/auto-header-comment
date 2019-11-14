@@ -1,0 +1,4 @@
+FILE=\file
+PROJECTNAME=\project name
+AUTHOR=\author
+REMARKS=\remarks

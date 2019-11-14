@@ -1,0 +1,11 @@
+/******************************************************************************/
+/*!
+\file                   lol.txt
+\project name           Alchemist's Apprentice
+\author                 Kwan Wai Teng
+\Remarks:
+
+All content © 2016 DigiPen Institute of Technology Singapore. All Rights Reserved
+
+*/
+/******************************************************************************/
